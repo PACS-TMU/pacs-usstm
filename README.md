@@ -10,7 +10,7 @@ Before you work on this website there are some command line tools and extensions
 
 ### Command Line Tools
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-# USSTM Website Project
+# PACS Website Project
 
 ## Overview
 - [NodeJS](https://nodejs.org/en/download)
@@ -27,7 +27,7 @@ git clone https://github.com/PACS-TMU/pacs-website.git
 ```
 2. Change into the repo directory.
 ```
-cd usstm-website
+cd PACS-website
 ```
 3. Switch to the branch that you are working on by using:
 ```
@@ -51,7 +51,7 @@ localhost:3000
 ## Coding
 - Code in your respective or assigned branches to avoid git conflicts.
 - Ensure to pull regularly to stay up to date with the dev branch.
-- Only code what you are assigned to code. To get assigned, take part in USSTM Website meetings where we split tasks. Or ask your Tech Team Lead for vacant tasks.
+- Only code what you are assigned to code. To get assigned, take part in PACS Website meetings where we split tasks. Or ask your Tech Team Lead for vacant tasks.
 
 -----------------------------------------------------------
 
