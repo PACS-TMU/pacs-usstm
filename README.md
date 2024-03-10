@@ -1,4 +1,4 @@
-# USSTM Website Project
+# PACS Website Project
 
 # Overview
 I love me some PACS ~ andrearcaina
