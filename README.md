@@ -10,9 +10,6 @@ Before you work on this website there are some command line tools and extensions
 
 ### Command Line Tools
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-# PACS Website Project
-
-## Overview
 - [NodeJS](https://nodejs.org/en/download)
 
 ### VSCode Extensions
